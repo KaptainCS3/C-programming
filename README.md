@@ -1,2 +1,2 @@
 # C-programming-A-Modern-Approach-
-This repo contains exercise from th C programming Text Book
+This repo contains exercise from the C programming A Modern ApproachText Book
